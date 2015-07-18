@@ -11,7 +11,7 @@ public class SmoothCamera : MonoBehaviour {
 
 	void Start() 
 	{
-		_camera = Camera.main;
+		//_camera = Camera.main;
 	}
 
 	// Update is called once per frame
@@ -30,6 +30,6 @@ public class SmoothCamera : MonoBehaviour {
 	}
 	
 	void FixedUpdate() {
-		this.transform.position = new Vector3(this.transform.position.x + (10 * Time.fixedDeltaTime), this.transform.position.y, 0);
+		this.transform.position = new Vector3(this.transform.position.x + (10 * Time.fixedDeltaTime), this.transform.position.y, -0.5f);
 	}
 }
