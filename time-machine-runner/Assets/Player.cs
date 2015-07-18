@@ -16,7 +16,6 @@ public class Player : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		this.transform.position = new Vector3(this.transform.position.x + (10 * Time.deltaTime), this.transform.position.y, 0);
 		if (Input.anyKeyDown && !doubleJumping) {
 			GetComponent<Rigidbody2D>().AddForce(Vector3.up * 300, ForceMode2D.Force);
 			if(jumping)
