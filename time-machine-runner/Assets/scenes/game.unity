@@ -100,6 +100,7 @@ GameObject:
   - 124: {fileID: 330987481}
   - 81: {fileID: 330987480}
   - 114: {fileID: 330987479}
+  - 114: {fileID: 330987485}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -119,7 +120,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   floorPrefab: {fileID: 113680, guid: 5c59a5bdf47ab574992d88665e5d41a0, type: 2}
-  timeTraveller: {fileID: 0}
+  timeTraveller: {fileID: 1935799623}
 --- !u!81 &330987480
 AudioListener:
   m_ObjectHideFlags: 0
@@ -186,6 +187,19 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
+--- !u!114 &330987485
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 330987478}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1403b7fdb42ff5044969997ce97a80b3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  target: {fileID: 1935799628}
+  dampTime: .150000006
 --- !u!1001 &343036445
 Prefab:
   m_ObjectHideFlags: 0
@@ -345,6 +359,10 @@ Transform:
 --- !u!1 &1935799623 stripped
 GameObject:
   m_PrefabParentObject: {fileID: 165298, guid: 99b9d71fb8081e043a63a24cad0e4aa3, type: 2}
+  m_PrefabInternal: {fileID: 343036445}
+--- !u!4 &1935799628 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 495504, guid: 99b9d71fb8081e043a63a24cad0e4aa3, type: 2}
   m_PrefabInternal: {fileID: 343036445}
 --- !u!114 &1935799629
 MonoBehaviour:
