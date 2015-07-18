@@ -119,7 +119,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   floorPrefab: {fileID: 113680, guid: 5c59a5bdf47ab574992d88665e5d41a0, type: 2}
-  guy: {fileID: 165298, guid: 99b9d71fb8081e043a63a24cad0e4aa3, type: 2}
+  timeTraveller: {fileID: 0}
 --- !u!81 &330987480
 AudioListener:
   m_ObjectHideFlags: 0
