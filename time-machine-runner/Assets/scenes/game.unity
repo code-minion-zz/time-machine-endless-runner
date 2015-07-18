@@ -193,7 +193,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b65dab64d8fba14a859ef0f5dad52a2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  floorPrefab: {fileID: 113680, guid: 5c59a5bdf47ab574992d88665e5d41a0, type: 2}
+  floorPrefabs:
+  - {fileID: 142404, guid: d7bea94356590dc45a26af47451fbf7e, type: 2}
+  - {fileID: 113680, guid: 5c59a5bdf47ab574992d88665e5d41a0, type: 2}
   timeTraveller: {fileID: 1935799623}
 --- !u!81 &330987480
 AudioListener:
@@ -316,6 +318,10 @@ Prefab:
     - target: {fileID: 5013168, guid: 99b9d71fb8081e043a63a24cad0e4aa3, type: 2}
       propertyPath: m_GravityScale
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5013168, guid: 99b9d71fb8081e043a63a24cad0e4aa3, type: 2}
+      propertyPath: m_Constraints
+      value: 4
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 99b9d71fb8081e043a63a24cad0e4aa3, type: 2}
@@ -581,9 +587,12 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 11423452, guid: 4450cb77b3a6b6449b7915928a78e68b, type: 2}
       propertyPath: speed
-      value: .00499999989
+      value: .00100000005
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8194374, guid: 4450cb77b3a6b6449b7915928a78e68b, type: 2}
+    - {fileID: 9211916, guid: 4450cb77b3a6b6449b7915928a78e68b, type: 2}
+    - {fileID: 12499860, guid: 4450cb77b3a6b6449b7915928a78e68b, type: 2}
   m_ParentPrefab: {fileID: 100100000, guid: 4450cb77b3a6b6449b7915928a78e68b, type: 2}
   m_IsPrefabParent: 0
 --- !u!1 &1502842225

@@ -1,5 +1,21 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!1 &101314
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 441652}
+  - 61: {fileID: 6153574}
+  m_Layer: 0
+  m_Name: DEATH
+  m_TagString: DEATH
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
 --- !u!1 &115056
 GameObject:
   m_ObjectHideFlags: 0
@@ -119,6 +135,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 472444}
   m_RootOrder: 0
+--- !u!4 &441652
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 101314}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -.0155894328, y: -.931078911, z: 0}
+  m_LocalScale: {x: 17.7967091, y: .975335538, z: 1}
+  m_Children: []
+  m_Father: {fileID: 472444}
+  m_RootOrder: 4
 --- !u!4 &445032
 Transform:
   m_ObjectHideFlags: 1
@@ -145,6 +173,7 @@ Transform:
   - {fileID: 445032}
   - {fileID: 401002}
   - {fileID: 414230}
+  - {fileID: 441652}
   m_Father: {fileID: 0}
   m_RootOrder: 0
 --- !u!60 &6078196
@@ -225,6 +254,19 @@ BoxCollider2D:
   m_Offset: {x: -2.38418579e-07, y: 5.96046448e-08}
   serializedVersion: 2
   m_Size: {x: 1.10000002, y: 1.41999996}
+--- !u!61 &6153574
+BoxCollider2D:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 101314}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
 --- !u!212 &21247442
 SpriteRenderer:
   m_ObjectHideFlags: 1
