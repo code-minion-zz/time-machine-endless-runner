@@ -16,7 +16,7 @@ public class PlatformManager : MonoBehaviour {
 			float xPos = -10 + (floorPrefab.transform.localScale.x * floors.Count);
 			GameObject floor = GameObject.Instantiate (floorPrefab, new Vector3(xPos, -4.5f, 0f), new Quaternion()) as GameObject;
 			Renderer r = floor.GetComponent<Renderer>();
-			r.material.color = i * Color.grey;
+			r.material.color = Color.Lerp(Color.red,Color.blue, 0.25f * i);// new Color(0.5f,0.5f,0.5f)'i * Color.grey;
 			floors.Add(floor);
 		}
 	}
