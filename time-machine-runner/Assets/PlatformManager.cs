@@ -5,18 +5,30 @@ using System.Collections.Generic;
 public class PlatformManager : MonoBehaviour {
 
 	private List<GameObject> floors;
-	public GameObject floorPrefab;
+	public List<GameObject> floorPrefabs;
 	public GameObject timeTraveller;
 
+    public GameObject randomFloor
+    {
+        get
+        {
+            if (floorPrefabs.Count == 0) return null;
+            return floorPrefabs[Random.Range(0, floorPrefabs.Count-1)];
+        }
+    }
+        
+        
 
 	// Use this for initialization
 	void Start () {
+        GameObject randFloor = randomFloor;
+        if (randFloor == null) return;
 		floors = new List<GameObject> ();
 		for (int i = 0; i < 4; i++) {
-			float xPos = -10 + (floorPrefab.transform.localScale.x * floors.Count);
-			GameObject floor = GameObject.Instantiate (floorPrefab, new Vector3(xPos, -4.5f, 0f), new Quaternion()) as GameObject;
-			Renderer r = floor.GetComponent<Renderer>();
-			r.material.color = Color.Lerp(Color.red,Color.blue, 0.25f * i);// new Color(0.5f,0.5f,0.5f)'i * Color.grey;
+			float xPos = -10 + (randFloor.transform.localScale.x * floors.Count);
+			GameObject floor = GameObject.Instantiate (randFloor, new Vector3(xPos, -4.5f, 0f), new Quaternion()) as GameObject;
+			//Renderer r = floor.GetComponent<Renderer>();
+			//r.material.color = Color.Lerp(Color.red,Color.blue, 0.25f * i);// new Color(0.5f,0.5f,0.5f)'i * Color.grey;
 			floors.Add(floor);
 		}
 	}
