@@ -32,8 +32,7 @@ public class Player : MonoBehaviour {
 		doubleJumping = false;
     }
 
-    void FixedUpdate()
-    {
+    void FixedUpdate() {
         this.transform.position = new Vector3(this.transform.position.x + (10 * Time.fixedDeltaTime), this.transform.position.y, 0);
     }
 }
