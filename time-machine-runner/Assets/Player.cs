@@ -30,5 +30,10 @@ public class Player : MonoBehaviour {
 	void OnCollisionEnter2D(Collision2D coll){
 		jumping = false;
 		doubleJumping = false;
-	}
+    }
+
+    void FixedUpdate()
+    {
+        this.transform.position = new Vector3(this.transform.position.x + (10 * Time.fixedDeltaTime), this.transform.position.y, 0);
+    }
 }
