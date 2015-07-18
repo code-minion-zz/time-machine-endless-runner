@@ -19,7 +19,6 @@ public class ScrollingBackground : MonoBehaviour {
 			pos -= 1.0f;
 		Renderer sr = GetComponent<Renderer> ();
 		sr.material.mainTextureOffset = new Vector2 (pos, 0);
-		Debug.Log (pos);
 	}
 
 
