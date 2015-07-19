@@ -11,7 +11,7 @@ public class SmoothCamera : MonoBehaviour {
 
 	void Start() 
 	{
-		_camera = Camera.main;
+		//_camera = Camera.main;
 	}
 
 	// Update is called once per frame
@@ -19,7 +19,7 @@ public class SmoothCamera : MonoBehaviour {
 	{
 		if (target)
 		{
-            transform.position = target.position + offset;
+            //transform.position = target.position + offset;
             //Vector3 point = Camera.main.WorldToViewportPoint(target.position);
             //Vector3 delta = target.position - _camera.ViewportToWorldPoint(new Vector3(0.5f, 0.5f, point.z)); //(new Vector3(0.5, 0.5, point.z));
             //Vector3 destination = transform.position + delta;
@@ -27,5 +27,9 @@ public class SmoothCamera : MonoBehaviour {
             //transform.position = Vector3.SmoothDamp(transform.position, destination, ref velocity, dampTime);
         }
 
-    }
+	}
+	
+	void FixedUpdate() {
+		this.transform.position = new Vector3(this.transform.position.x + (10 * Time.fixedDeltaTime), this.transform.position.y, -0.5f);
+	}
 }
