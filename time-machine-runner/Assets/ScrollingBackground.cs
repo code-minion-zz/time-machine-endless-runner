@@ -16,10 +16,8 @@ public class ScrollingBackground : MonoBehaviour {
 	void Update () {
 		pos += speed;
 		if (pos > 1.0f)
-			pos -= 1.0f;
+			pos -= 1.13f;
 		Renderer sr = GetComponent<Renderer> ();
 		sr.material.mainTextureOffset = new Vector2 (pos, 0);
 	}
-
-
 }
