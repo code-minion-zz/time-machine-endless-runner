@@ -7,9 +7,9 @@ public class SmoothCamera : MonoBehaviour {
     public float dampTime = 0.15f;
 	private Vector3 velocity = Vector3.zero;
 	Camera _camera;
-	Vector3 offset = new Vector3(5f,2f,-2f);
+	Vector3 offset = new Vector3(0f, 0f, 0f);
 	
-	float speed = 5f;
+	float speed = 1f;
 	
 	void Start() 
 	{
@@ -32,6 +32,7 @@ public class SmoothCamera : MonoBehaviour {
 	}
 	
 	void FixedUpdate() {
-		this.transform.position = new Vector3(this.transform.position.x + (speed * Time.fixedDeltaTime), this.transform.position.y, -0.5f);
-	}
+		this.transform.position = new Vector3(this.transform.position.x + (5f* speed * Time.fixedDeltaTime), this.transform.position.y, -0.5f) + offset;
+        speed += Time.fixedDeltaTime * 0.01f;
+    }
 }

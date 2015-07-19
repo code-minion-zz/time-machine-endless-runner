@@ -324,7 +324,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 480516, guid: 4450cb77b3a6b6449b7915928a78e68b, type: 2}
       propertyPath: m_RootOrder
-      value: 6
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 162876, guid: 4450cb77b3a6b6449b7915928a78e68b, type: 2}
       propertyPath: m_Name
@@ -513,14 +513,14 @@ Prefab:
       propertyPath: m_RootOrder
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 11448824, guid: ae18020cb2a4da14cb5383392a405aa4, type: 2}
-      propertyPath: timeTraveller
-      value: 
-      objectReference: {fileID: 1538661376}
     - target: {fileID: 11462144, guid: ae18020cb2a4da14cb5383392a405aa4, type: 2}
       propertyPath: target
       value: 
       objectReference: {fileID: 1538661382}
+    - target: {fileID: 11448824, guid: ae18020cb2a4da14cb5383392a405aa4, type: 2}
+      propertyPath: timeTraveller
+      value: 
+      objectReference: {fileID: 1538661376}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: ae18020cb2a4da14cb5383392a405aa4, type: 2}
   m_IsPrefabParent: 0

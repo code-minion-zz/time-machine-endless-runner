@@ -9,10 +9,18 @@ public class Player : MonoBehaviour {
     Rigidbody2D rigid;
 	public Text distanceDisplay;
 
-	float speed = 5.1f;
+    public AudioSource explosion;
+    public AudioSource jump;
+
+    float speed = 1f;
+
+    Camera mainz;
+
+    bool gameOver = false;
 
 	// Use this for initialization
 	void Start () {
+        mainz = Camera.main;
         rigid = GetComponent<Rigidbody2D>();
     }
 	
@@ -20,6 +28,7 @@ public class Player : MonoBehaviour {
 	void Update () {
 		if (Input.anyKeyDown && !doubleJumping)
         {
+            jump.Play();
             if (jumping)
             {
                 doubleJumping = true;
@@ -38,10 +47,32 @@ public class Player : MonoBehaviour {
     }
 
     void FixedUpdate() {
-		this.transform.position = new Vector3(this.transform.position.x + (speed * Time.fixedDeltaTime), this.transform.position.y, 0);
+		this.transform.position = new Vector3(this.transform.position.x + (5.1f * speed * Time.fixedDeltaTime), this.transform.position.y, 0);
+        speed += Time.fixedDeltaTime * 0.01f;
+        
+        if(gameOver)
+        {
+            if (!explosion.isPlaying)
+            {
+                Application.LoadLevel(0);
+            }
+
+        }
+        else
+        {
+            if (transform.position.x < mainz.transform.position.x - 10)
+            {
+                print("You lose");
+                explosion.Play();
+                gameOver = true;
+            }
+        }
+
     }
 
-	void OnBecameInvisible() {
-		print ("You lose");
-	}
+	//void OnBecameInvisible() {
+	//	print ("You lose");
+ //       explosion.Play();
+ //       //Application.LoadLevel(0);
+	//}
 }
