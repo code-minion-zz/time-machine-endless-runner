@@ -47,7 +47,7 @@ public class Player : MonoBehaviour {
     }
 
     void FixedUpdate() {
-		this.transform.position = new Vector3(this.transform.position.x + (5.1f * speed * Time.fixedDeltaTime), this.transform.position.y, 0);
+		this.transform.position = new Vector3(this.transform.position.x + (5.2f * speed * Time.fixedDeltaTime), this.transform.position.y, 0);
         speed += Time.fixedDeltaTime * 0.01f;
         
         if(gameOver)
@@ -60,7 +60,7 @@ public class Player : MonoBehaviour {
         }
         else
         {
-            if (transform.position.x < mainz.transform.position.x - 10)
+            if (transform.position.x < mainz.transform.position.x - 10 || transform.position.y < mainz.transform.position.y - 6)
             {
                 print("You lose");
                 explosion.Play();
