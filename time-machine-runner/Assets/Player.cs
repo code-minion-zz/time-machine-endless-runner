@@ -6,20 +6,24 @@ public class Player : MonoBehaviour {
 
 	bool jumping;
 	bool doubleJumping;
-
+    Rigidbody2D rigid;
 	public Text distanceDisplay;
 
 	// Use this for initialization
 	void Start () {
-	
-	}
+        rigid = GetComponent<Rigidbody2D>();
+    }
 	
 	// Update is called once per frame
 	void Update () {
-		if (Input.anyKeyDown && !doubleJumping) {
-			GetComponent<Rigidbody2D>().AddForce(Vector3.up * 600 * (jumping ? 0.5f : 1), ForceMode2D.Force);
-			if(jumping)
-				doubleJumping = true;
+		if (Input.anyKeyDown && !doubleJumping)
+        {
+            if (jumping)
+            {
+                doubleJumping = true;
+                rigid.velocity = new Vector2(rigid.velocity.x, 0);
+            }
+            rigid.AddForce(Vector3.up * 11, ForceMode2D.Impulse);
 			jumping = true;
 		}
 
@@ -32,7 +36,7 @@ public class Player : MonoBehaviour {
     }
 
     void FixedUpdate() {
-        this.transform.position = new Vector3(this.transform.position.x + (10 * Time.fixedDeltaTime), this.transform.position.y, 0);
+        this.transform.position = new Vector3(this.transform.position.x + (5.1f * Time.fixedDeltaTime), this.transform.position.y, 0);
     }
 
 	void OnBecameInvisible() {

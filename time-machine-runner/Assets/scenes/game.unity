@@ -537,7 +537,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 485200, guid: ab44ceae331d3484f8e5d13d794953fa, type: 2}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 485200, guid: ab44ceae331d3484f8e5d13d794953fa, type: 2}
       propertyPath: m_LocalPosition.z
@@ -561,7 +561,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 485200, guid: ab44ceae331d3484f8e5d13d794953fa, type: 2}
       propertyPath: m_RootOrder
-      value: 6
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 11465012, guid: ab44ceae331d3484f8e5d13d794953fa, type: 2}
       propertyPath: distanceDisplay
