@@ -9,6 +9,8 @@ public class Player : MonoBehaviour {
     Rigidbody2D rigid;
 	public Text distanceDisplay;
 
+	float speed = 5.1f;
+
 	// Use this for initialization
 	void Start () {
         rigid = GetComponent<Rigidbody2D>();
@@ -36,7 +38,7 @@ public class Player : MonoBehaviour {
     }
 
     void FixedUpdate() {
-        this.transform.position = new Vector3(this.transform.position.x + (5.1f * Time.fixedDeltaTime), this.transform.position.y, 0);
+		this.transform.position = new Vector3(this.transform.position.x + (speed * Time.fixedDeltaTime), this.transform.position.y, 0);
     }
 
 	void OnBecameInvisible() {
