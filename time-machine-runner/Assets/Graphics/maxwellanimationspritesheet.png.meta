@@ -1,0 +1,1639 @@
+fileFormatVersion: 2
+guid: 9a2885dfe240ec04ebfaac9d1b77bf3d
+timeCreated: 1437267452
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: maxwellanimationspritesheet_0
+    21300002: maxwellanimationspritesheet_1
+    21300004: maxwellanimationspritesheet_2
+    21300006: maxwellanimationspritesheet_3
+    21300008: maxwellanimationspritesheet_4
+    21300010: maxwellanimationspritesheet_5
+    21300012: maxwellanimationspritesheet_6
+    21300014: maxwellanimationspritesheet_7
+    21300016: maxwellanimationspritesheet_8
+    21300018: maxwellanimationspritesheet_9
+    21300020: maxwellanimationspritesheet_10
+    21300022: maxwellanimationspritesheet_11
+    21300024: maxwellanimationspritesheet_12
+    21300026: maxwellanimationspritesheet_13
+    21300028: maxwellanimationspritesheet_14
+    21300030: maxwellanimationspritesheet_15
+    21300032: maxwellanimationspritesheet_16
+    21300034: maxwellanimationspritesheet_17
+    21300036: maxwellanimationspritesheet_18
+    21300038: maxwellanimationspritesheet_19
+    21300040: maxwellanimationspritesheet_20
+    21300042: maxwellanimationspritesheet_21
+    21300044: maxwellanimationspritesheet_22
+    21300046: maxwellanimationspritesheet_23
+    21300048: maxwellanimationspritesheet_24
+    21300050: maxwellanimationspritesheet_25
+    21300052: maxwellanimationspritesheet_26
+    21300054: maxwellanimationspritesheet_27
+    21300056: maxwellanimationspritesheet_28
+    21300058: maxwellanimationspritesheet_29
+    21300060: maxwellanimationspritesheet_30
+    21300062: maxwellanimationspritesheet_31
+    21300064: maxwellanimationspritesheet_32
+    21300066: maxwellanimationspritesheet_33
+    21300068: maxwellanimationspritesheet_34
+    21300070: maxwellanimationspritesheet_35
+    21300072: maxwellanimationspritesheet_36
+    21300074: maxwellanimationspritesheet_37
+    21300076: maxwellanimationspritesheet_38
+    21300078: maxwellanimationspritesheet_39
+    21300080: maxwellanimationspritesheet_40
+    21300082: maxwellanimationspritesheet_41
+    21300084: maxwellanimationspritesheet_42
+    21300086: maxwellanimationspritesheet_43
+    21300088: maxwellanimationspritesheet_44
+    21300090: maxwellanimationspritesheet_45
+    21300092: maxwellanimationspritesheet_46
+    21300094: maxwellanimationspritesheet_47
+    21300096: maxwellanimationspritesheet_48
+    21300098: maxwellanimationspritesheet_49
+    21300100: maxwellanimationspritesheet_50
+    21300102: maxwellanimationspritesheet_51
+    21300104: maxwellanimationspritesheet_52
+    21300106: maxwellanimationspritesheet_53
+    21300108: maxwellanimationspritesheet_54
+    21300110: maxwellanimationspritesheet_55
+    21300112: maxwellanimationspritesheet_56
+    21300114: maxwellanimationspritesheet_57
+    21300116: maxwellanimationspritesheet_58
+    21300118: maxwellanimationspritesheet_59
+    21300120: maxwellanimationspritesheet_60
+    21300122: maxwellanimationspritesheet_61
+    21300124: maxwellanimationspritesheet_62
+    21300126: maxwellanimationspritesheet_63
+    21300128: maxwellanimationspritesheet_64
+    21300130: maxwellanimationspritesheet_65
+    21300132: maxwellanimationspritesheet_66
+    21300134: maxwellanimationspritesheet_67
+    21300136: maxwellanimationspritesheet_68
+    21300138: maxwellanimationspritesheet_69
+    21300140: maxwellanimationspritesheet_70
+    21300142: maxwellanimationspritesheet_71
+    21300144: maxwellanimationspritesheet_72
+    21300146: maxwellanimationspritesheet_73
+    21300148: maxwellanimationspritesheet_74
+    21300150: maxwellanimationspritesheet_75
+    21300152: maxwellanimationspritesheet_76
+    21300154: maxwellanimationspritesheet_77
+    21300156: maxwellanimationspritesheet_78
+    21300158: maxwellanimationspritesheet_79
+    21300160: maxwellanimationspritesheet_80
+    21300162: maxwellanimationspritesheet_81
+    21300164: maxwellanimationspritesheet_82
+    21300166: maxwellanimationspritesheet_83
+    21300168: maxwellanimationspritesheet_84
+    21300170: maxwellanimationspritesheet_85
+    21300172: maxwellanimationspritesheet_86
+    21300174: maxwellanimationspritesheet_87
+    21300176: maxwellanimationspritesheet_88
+    21300178: maxwellanimationspritesheet_89
+    21300180: maxwellanimationspritesheet_90
+    21300182: maxwellanimationspritesheet_91
+    21300184: maxwellanimationspritesheet_92
+    21300186: maxwellanimationspritesheet_93
+    21300188: maxwellanimationspritesheet_94
+    21300190: maxwellanimationspritesheet_95
+    21300192: maxwellanimationspritesheet_96
+    21300194: maxwellanimationspritesheet_97
+    21300196: maxwellanimationspritesheet_98
+    21300198: maxwellanimationspritesheet_99
+    21300200: maxwellanimationspritesheet_100
+    21300202: maxwellanimationspritesheet_101
+    21300204: maxwellanimationspritesheet_102
+    21300206: maxwellanimationspritesheet_103
+    21300208: maxwellanimationspritesheet_104
+    21300210: maxwellanimationspritesheet_105
+    21300212: maxwellanimationspritesheet_106
+    21300214: maxwellanimationspritesheet_107
+    21300216: maxwellanimationspritesheet_108
+    21300218: maxwellanimationspritesheet_109
+    21300220: maxwellanimationspritesheet_110
+    21300222: maxwellanimationspritesheet_111
+    21300224: maxwellanimationspritesheet_112
+    21300226: maxwellanimationspritesheet_113
+    21300228: maxwellanimationspritesheet_114
+    21300230: maxwellanimationspritesheet_115
+    21300232: maxwellanimationspritesheet_116
+    21300234: maxwellanimationspritesheet_117
+    21300236: maxwellanimationspritesheet_118
+    21300238: maxwellanimationspritesheet_119
+    21300240: maxwellanimationspritesheet_120
+    21300242: maxwellanimationspritesheet_121
+    21300244: maxwellanimationspritesheet_122
+    21300246: maxwellanimationspritesheet_123
+    21300248: maxwellanimationspritesheet_124
+    21300250: maxwellanimationspritesheet_125
+    21300252: maxwellanimationspritesheet_126
+    21300254: maxwellanimationspritesheet_127
+    21300256: maxwellanimationspritesheet_128
+    21300258: maxwellanimationspritesheet_129
+    21300260: maxwellanimationspritesheet_130
+    21300262: maxwellanimationspritesheet_131
+    21300264: maxwellanimationspritesheet_132
+    21300266: maxwellanimationspritesheet_133
+    21300268: maxwellanimationspritesheet_134
+    21300270: maxwellanimationspritesheet_135
+    21300272: maxwellanimationspritesheet_136
+    21300274: maxwellanimationspritesheet_137
+    21300276: maxwellanimationspritesheet_138
+    21300278: maxwellanimationspritesheet_139
+    21300280: maxwellanimationspritesheet_140
+    21300282: maxwellanimationspritesheet_141
+    21300284: maxwellanimationspritesheet_142
+    21300286: maxwellanimationspritesheet_143
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: maxwellanimationspritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1142
+        width: 180
+        height: 341
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1141
+        width: 180
+        height: 341
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1141
+        width: 180
+        height: 342
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1169
+        width: 210
+        height: 323
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1161
+        width: 168
+        height: 337
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1167
+        width: 183
+        height: 310
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 1159
+        width: 202
+        height: 327
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 1159
+        width: 168
+        height: 339
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 1168
+        width: 181
+        height: 309
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 823
+        width: 211
+        height: 280
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 789
+        width: 195
+        height: 307
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 798
+        width: 211
+        height: 327
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 890
+        width: 301
+        height: 212
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 815
+        width: 207
+        height: 290
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 974
+        width: 12
+        height: 11
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 796
+        width: 251
+        height: 306
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 939
+        width: 28
+        height: 11
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 856
+        width: 13
+        height: 13
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 723
+        width: 16
+        height: 65
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 733
+        width: 16
+        height: 54
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 772
+        width: 15
+        height: 16
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 747
+        width: 10
+        height: 10
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 748
+        width: 5
+        height: 5
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 386
+        width: 253
+        height: 356
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 595
+        width: 88
+        height: 146
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 733
+        width: 10
+        height: 11
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 734
+        width: 6
+        height: 6
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 722
+        width: 18
+        height: 17
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 705
+        width: 25
+        height: 24
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 570
+        width: 138
+        height: 138
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 683
+        width: 28
+        height: 29
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 644
+        width: 28
+        height: 65
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 694
+        width: 23
+        height: 26
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 692
+        width: 30
+        height: 30
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 705
+        width: 15
+        height: 21
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 679
+        width: 16
+        height: 29
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 704
+        width: 56
+        height: 27
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 705
+        width: 30
+        height: 27
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 685
+        width: 14
+        height: 15
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 645
+        width: 61
+        height: 48
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 672
+        width: 5
+        height: 5
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 630
+        width: 17
+        height: 44
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 634
+        width: 45
+        height: 44
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 648
+        width: 9
+        height: 37
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 673
+        width: 7
+        height: 6
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 664
+        width: 9
+        height: 9
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 648
+        width: 16
+        height: 15
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 641
+        width: 58
+        height: 16
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 641
+        width: 10
+        height: 9
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 638
+        width: 38
+        height: 23
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 584
+        width: 48
+        height: 68
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 624
+        width: 79
+        height: 27
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 623
+        width: 18
+        height: 17
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 616
+        width: 78
+        height: 31
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 621
+        width: 26
+        height: 21
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 634
+        width: 4
+        height: 5
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 633
+        width: 18
+        height: 15
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 589
+        width: 104
+        height: 41
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 601
+        width: 17
+        height: 14
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 596
+        width: 59
+        height: 38
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 598
+        width: 11
+        height: 13
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 564
+        width: 31
+        height: 27
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 588
+        width: 9
+        height: 10
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 577
+        width: 17
+        height: 20
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 587
+        width: 11
+        height: 11
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 582
+        width: 7
+        height: 6
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 419
+        width: 141
+        height: 163
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 557
+        width: 11
+        height: 11
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 565
+        width: 17
+        height: 11
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 508
+        width: 28
+        height: 58
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 559
+        width: 16
+        height: 12
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 558
+        width: 10
+        height: 9
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 537
+        width: 20
+        height: 20
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 527
+        width: 67
+        height: 38
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 539
+        width: 13
+        height: 13
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 443
+        width: 143
+        height: 107
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 544
+        width: 20
+        height: 21
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 544
+        width: 26
+        height: 18
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 534
+        width: 27
+        height: 13
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 513
+        width: 72
+        height: 23
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 533
+        width: 5
+        height: 4
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 523
+        width: 66
+        height: 18
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 525
+        width: 44
+        height: 15
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 510
+        width: 8
+        height: 9
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 331
+        width: 86
+        height: 198
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 517
+        width: 11
+        height: 12
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 499
+        width: 22
+        height: 22
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 479
+        width: 57
+        height: 24
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 494
+        width: 22
+        height: 10
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 472
+        width: 79
+        height: 26
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 497
+        width: 5
+        height: 4
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 480
+        width: 22
+        height: 28
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 483
+        width: 43
+        height: 19
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 479
+        width: 15
+        height: 14
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 485
+        width: 6
+        height: 6
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 484
+        width: 10
+        height: 9
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 489
+        width: 7
+        height: 8
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 469
+        width: 45
+        height: 20
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 469
+        width: 9
+        height: 10
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_99
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 476
+        width: 6
+        height: 4
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_100
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 468
+        width: 13
+        height: 13
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_101
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 466
+        width: 6
+        height: 4
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_102
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 345
+        width: 132
+        height: 124
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_103
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 442
+        width: 40
+        height: 26
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_104
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 456
+        width: 18
+        height: 12
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_105
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 440
+        width: 28
+        height: 31
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_106
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 458
+        width: 4
+        height: 5
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_107
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 445
+        width: 17
+        height: 15
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_108
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 449
+        width: 10
+        height: 8
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_109
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 441
+        width: 18
+        height: 17
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_110
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 434
+        width: 17
+        height: 16
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_111
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 415
+        width: 22
+        height: 20
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_112
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 432
+        width: 11
+        height: 10
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_113
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 424
+        width: 20
+        height: 18
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_114
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 415
+        width: 30
+        height: 24
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_115
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 431
+        width: 11
+        height: 16
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_116
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 411
+        width: 6
+        height: 7
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_117
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 269
+        width: 83
+        height: 146
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_118
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 384
+        width: 19
+        height: 17
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_119
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 359
+        width: 39
+        height: 52
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_120
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 356
+        width: 49
+        height: 47
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_121
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 366
+        width: 20
+        height: 44
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_122
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 397
+        width: 17
+        height: 14
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_123
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 366
+        width: 17
+        height: 18
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_124
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 315
+        width: 24
+        height: 76
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_125
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 376
+        width: 7
+        height: 6
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_126
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 380
+        width: 9
+        height: 11
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_127
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 350
+        width: 72
+        height: 41
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_128
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 338
+        width: 14
+        height: 36
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_129
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 347
+        width: 24
+        height: 22
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_130
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 364
+        width: 15
+        height: 15
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_131
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 353
+        width: 7
+        height: 8
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_132
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 340
+        width: 10
+        height: 20
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_133
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 321
+        width: 16
+        height: 24
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_134
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 328
+        width: 19
+        height: 20
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_135
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 311
+        width: 14
+        height: 15
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_136
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 252
+        width: 13
+        height: 62
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_137
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 279
+        width: 13
+        height: 48
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_138
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 270
+        width: 26
+        height: 35
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_139
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 284
+        width: 17
+        height: 22
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_140
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 266
+        width: 13
+        height: 16
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_141
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 257
+        width: 11
+        height: 11
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_142
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 255
+        width: 5
+        height: 7
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maxwellanimationspritesheet_143
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 227
+        width: 26
+        height: 32
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
